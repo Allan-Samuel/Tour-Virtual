@@ -857,28 +857,28 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.16385666662678844,
-          "pitch": 0.5941692305693032,
+          "yaw": 0.14065903607292185,
+          "pitch": 0.646996739294945,
           "rotation": 0,
           "target": "13-painel14"
         },
         {
-          "yaw": 0.6033377710288743,
-          "pitch": 0.20543965945660148,
-          "rotation": 10.995574287564278,
+          "yaw": 0.6199334391578653,
+          "pitch": 0.21592946334312124,
+          "rotation": 4.71238898038469,
           "target": "12-painel13"
         },
         {
-          "yaw": -0.3075001626979894,
-          "pitch": 0.2020974947608174,
+          "yaw": -0.3301416568444093,
+          "pitch": 0.2331764729416701,
           "rotation": 1.5707963267948966,
           "target": "14-painel15"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": 0.39281554058802826,
-          "pitch": -0.5566024190013614,
+          "yaw": -0.12961188634443843,
+          "pitch": -0.5679437105721217,
           "title": "Painel 14",
           "text": "<p>Clique para visualizar o painel em tela cheia:</p><button onclick=\"abrirLightbox('assets/imagens/painel14.jpg')\" style=\"background-color: #007bff; color: white; padding: 0.5em 1em; border: none; cursor: pointer; font-size: 1em; margin-top: 10px; border-radius: 5px;\">Ampliar em Fullscreen</button>"
         }
