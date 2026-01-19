@@ -991,34 +991,34 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.07057140874556467,
-          "pitch": 0.6962180355209888,
+          "yaw": 0.07848773855364932,
+          "pitch": 0.6842631912151695,
           "rotation": 0,
           "target": "15-painel16"
         },
         {
-          "yaw": 1.6231295511270316,
-          "pitch": 0.3324208833834046,
-          "rotation": 1.5707963267948966,
+          "yaw": 1.673664193214016,
+          "pitch": 0.3588052522712655,
+          "rotation": 7.853981633974483,
           "target": "14-painel15"
         },
         {
-          "yaw": 0.56991744551412,
-          "pitch": 0.3428358184093234,
+          "yaw": 0.5983321922504814,
+          "pitch": 0.30320247464688954,
           "rotation": 4.71238898038469,
           "target": "16-painel17"
         },
         {
-          "yaw": -0.39495236424918545,
-          "pitch": 0.28880563598301556,
-          "rotation": 7.853981633974483,
+          "yaw": -0.4392887896538653,
+          "pitch": 0.30664097837969884,
+          "rotation": 1.5707963267948966,
           "target": "17-painel18"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": -0.2280677784002645,
-          "pitch": -0.5100300154145252,
+          "yaw": -0.19697699316908412,
+          "pitch": -0.5457874039567514,
           "title": "Painel 16",
           "text": "<p>Clique para visualizar o painel em tela cheia:</p><button onclick=\"abrirLightbox('assets/imagens/painel16.jpg')\" style=\"background-color: #007bff; color: white; padding: 0.5em 1em; border: none; cursor: pointer; font-size: 1em; margin-top: 10px; border-radius: 5px;\">Ampliar em Fullscreen</button>"
         }
