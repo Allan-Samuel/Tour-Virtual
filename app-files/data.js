@@ -1393,34 +1393,34 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 0.19702921856894307,
-          "pitch": 0.6390316813916357,
+          "yaw": 0.20772614865453143,
+          "pitch": 0.6552110419621364,
           "rotation": 0,
           "target": "21-painel22"
         },
         {
-          "yaw": 0.6949881965126057,
-          "pitch": 0.25069040773194473,
+          "yaw": 0.6831437820234605,
+          "pitch": 0.23829396809170333,
           "rotation": 4.71238898038469,
           "target": "22-painel23"
         },
         {
-          "yaw": -0.28797689116734837,
-          "pitch": 0.25494016949101805,
-          "rotation": 7.853981633974483,
+          "yaw": -0.2704961954381986,
+          "pitch": 0.23553387199662978,
+          "rotation": 1.5707963267948966,
           "target": "20-painel21"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": -0.09000994382556726,
-          "pitch": -0.5538731006120088,
+          "yaw": -0.07780328541023174,
+          "pitch": -0.558702288036546,
           "title": "Painel 22",
           "text": "<p>Clique para visualizar o painel em tela cheia:</p><button onclick=\"abrirLightbox('assets/imagens/painel22.jpg')\" style=\"background-color: #007bff; color: white; padding: 0.5em 1em; border: none; cursor: pointer; font-size: 1em; margin-top: 10px; border-radius: 5px;\">Ampliar em Fullscreen</button>"
         },
         {
-          "yaw": 0.7199066738081594,
-          "pitch": -0.32542911285710474,
+          "yaw": 0.7193558549491996,
+          "pitch": -0.3172224415332021,
           "title": "Quadros 2",
           "text": "<p>Clique para visualizar o painel em tela cheia:</p><button onclick=\"abrirLightbox('assets/imagens/quadro2.jpg')\" style=\"background-color: #007bff; color: white; padding: 0.5em 1em; border: none; cursor: pointer; font-size: 1em; margin-top: 10px; border-radius: 5px;\">Ampliar em Fullscreen</button>"
         }
